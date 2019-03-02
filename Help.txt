@@ -1,0 +1,6 @@
+This is a help file created on 2-Mar-2019 as a part of an experimental project.
+Origin address of this file as https://github.com/DJLaboratory/WebAutomationFramework
+
+you can copy it use it modify it as per your need.
+
+cheers
